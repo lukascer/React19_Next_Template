@@ -1,10 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-##Stack: Next 14, React 19, Tailwind 3
+## Stack: Next 14, React 19, Tailwind 3
 
 ## Getting Started
 
-##npm i --legacy-peer-deps due to React 19 (05 2024 - React 19 is not out yet)
+## npm i --legacy-peer-deps due to React 19 (05 2024 - React 19 is not out yet)
 
 First, run the development server:
 
